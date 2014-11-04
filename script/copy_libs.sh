@@ -1,1 +1,1 @@
-sudo cp libs/libsmile*.a /usr/lib
+sudo cp lib/libsmile*.a /usr/lib
